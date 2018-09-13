@@ -1,0 +1,5 @@
+Questions for exit ticket:
+are subfolders created in a git init folder also git?
+
+git add * seemed to work (just like git add . )
+are * and interchangeable?
